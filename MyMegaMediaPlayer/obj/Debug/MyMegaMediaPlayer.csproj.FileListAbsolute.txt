@@ -1,0 +1,15 @@
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\bin\Debug\MyMegaMediaPlayer.exe.config
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\bin\Debug\MyMegaMediaPlayer.exe
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\bin\Debug\MyMegaMediaPlayer.pdb
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\obj\Debug\MyMegaMediaPlayer.csprojAssemblyReference.cache
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\obj\Debug\MyMegaMediaPlayer.csproj.ResolveComReference.cache
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\obj\Debug\MyMegaMediaPlayer.Form1.resources
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\obj\Debug\MyMegaMediaPlayer.Properties.Resources.resources
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\obj\Debug\MyMegaMediaPlayer.csproj.GenerateResource.cache
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\obj\Debug\MyMegaMediaPlayer.csproj.CoreCompileInputs.cache
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\obj\Debug\MyMegaMediaPlayer.exe
+D:\src\MyMegaMediaPlayer\MyMegaMediaPlayer\obj\Debug\MyMegaMediaPlayer.pdb
